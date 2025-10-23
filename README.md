@@ -1,1 +1,2 @@
 # SE-jura
+loe mind
