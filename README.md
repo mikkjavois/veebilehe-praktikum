@@ -1,2 +1,2 @@
-# SE-jura
+# Sissejuhatus Erialasse veebilehepraktikumid
 loe mind
